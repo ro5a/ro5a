@@ -20,9 +20,11 @@
 <!-- - 💬 Ask me about Python -->
 ### 🔗 Connect with me:
 <!-- style=flat-square& -->
-[![Linkedin Badge](https://www.linkedin.com/in/roa-a-tareq-479a03269)
-[![Facebook Badge](https://www.facebook.com/roaa.alhakimi.1?mibextid=ZbWKwL)]
-[![Twitter](https://twitter.com/roaa_ghiama?t=7yvR0GbuvziHUq1dM5GHqg&s=09)}
+[![Linkedin Badge](https://img.shields.io/badge/-Mohammad%20Shakib-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mo-shakib/)](https://www.linkedin.com/in/roa-a-tareq-479a03269)
+[![Facebook Badge](https://img.shields.io/badge/-Shakib-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/shak1b/)](https://www.facebook.com/roaa.alhakimi.1?mibextid=ZbWKwL)
+[![Twitter](https://img.shields.io/badge/@Mo__Shakib-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/roaa_ghiama?t=7yvR0GbuvziHUq1dM5GHqg&s=09)
+
+
 
 ### ⚡ Skills:
 [![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)](#)
