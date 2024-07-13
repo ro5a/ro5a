@@ -11,7 +11,6 @@
 </p>
 
 - 🎓 Pursuing B. Sc in Computer Science.
-- 👷‍♂️ I’m working on [He Codes](https://he-codes.github.io)
 - 🧠 Currently learning vue.js
 - 🔭 Looking for help with ML
 - 📫 Mail me: [roaa.hakimi@gmail.com](mailto:roaa.hakimi@gmail.com)
