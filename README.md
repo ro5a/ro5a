@@ -30,7 +30,7 @@
 )](#)
 [![Laravel](https://img.shields.io/badge/laravel-php?style=flat&logo=laravel&logoColor=rgb(249%2050%2044%20%2F%201)&labelColor=rgb(249%2050%2044%20%2F%201)&color=rgb(249%2050%2044%20%2F%201)&cacheSeconds=3600
 )](#)
-[![PHP](https://img.shields.io/badge/php-php?style=flat&color=rgb(82%2024%20131)&cacheSeconds=3600
+[![PHP](https://img.shields.io/badge/php-php?style=flat&logo=%23777BB4&logoColor=%23fff&label=%2B&labelColor=rgb(82%2024%20131)&color=rgb(82%2024%20131)
 )](#)
 
 <!-- [![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)](#) -->
