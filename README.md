@@ -11,7 +11,7 @@
 </p>
 
 - 🎓 Pursuing B. Sc in Computer Science.
-- 🧠 Currently learning vue.js
+- 🧠 Currently learning React.js
 - 🔭 Looking for help with Laravel
 - 📫 Mail me: [roaa.hakimi@gmail.com](mailto:roaa.hakimi@gmail.com)
 - ⚡ Fun fact: The first program I wrote wasn't "Hello, World!" 😌 
