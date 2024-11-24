@@ -27,7 +27,7 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)](#)
 [![Tailwind](https://img.shields.io/badge/tailwind-css?style=flat&logo=tailwind&logoColor=rgb(56%20189%20248%2F1)&labelColor=rgb(56%20189%20248%2F1)&color=rgb(56%20189%20248%2F1)&cacheSeconds=3600
 )](#)
-[![Laravel](https://img.shields.io/badge/laravel-php?style=flat&logo=laravel&logoColor=rgb(249%2050%2044%20%2F%201)&labelColor=rgb(249%2050%2044%20%2F%201)&color=rgb(249%2050%2044%20%2F%201)&cacheSeconds=3600
+[![Laravel](https://img.shields.io/badge/laravel-php?style=flat&logo=laravel&logoColor=%23fff&labelColor=rgb(235%2068%2050%20%2F%201)&color=rgb(235%2068%2050%20%2F%201)
 )](#)
 [![PHP](https://img.shields.io/badge/php-php?style=flat&logo=php&logoColor=%23fff&labelColor=rgb(82%2024%20131)&color=rgb(82%2024%20131)
 )](#)
