@@ -26,10 +26,12 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](#)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)](#)
-[![Laravel]([https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white](https://img.shields.io/badge/laravel
-))](#)
-[![PHP]([https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white](https://img.shields.io/badge/php
-))](#)
+[![Tailwind](https://img.shields.io/badge/tailwind-css?style=flat&logo=tailwind&logoColor=rgb(56%20189%20248%2F1)&labelColor=rgb(56%20189%20248%2F1)&color=rgb(56%20189%20248%2F1)&cacheSeconds=3600
+)](#)
+[![Laravel](https://img.shields.io/badge/laravel-php?style=flat&logo=laravel&logoColor=rgb(249%2050%2044%20%2F%201)&labelColor=rgb(249%2050%2044%20%2F%201)&color=rgb(249%2050%2044%20%2F%201)&cacheSeconds=3600
+)](#)
+[![PHP](https://img.shields.io/badge/php-php?style=flat&color=rgb(82%2024%20131)&cacheSeconds=3600
+)](#)
 
 <!-- [![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)](#) -->
 <!-- [![Java](https://img.shields.io/badge/-java-E34A86?logo=java)](#) -->
