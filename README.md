@@ -44,11 +44,5 @@
  
 </p>
   
-
-<details>	
-  <summary><b>🔥 Github Streaks</b></summary><br>
-  <p align="center">
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ro5a&theme=cobalt&mode=weekly)](https://git.io/streak-stats)</p>
-</details>
  
   
